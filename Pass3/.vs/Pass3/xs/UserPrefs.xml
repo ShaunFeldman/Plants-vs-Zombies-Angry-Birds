@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8B589C57-3DC3-4ADB-A4B9-420F01B3BEBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pass3/Game1.cs">
+    <Files>
+      <File FileName="Pass3/Game1.cs" Line="266" Column="13" />
+      <File FileName="Pass3/Projectile.cs" />
+      <File FileName="Pass3/Zombie.cs" />
+      <File FileName="Pass3/LLZ.cs" />
+      <File FileName="Pass3/QueueZ.cs" />
+      <File FileName="Pass3/QueueP.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pass3" expanded="True">
+            <Node name="Pass3" expanded="True">
+              <Node name="Content" expanded="True">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Music" expanded="True" />
+              </Node>
+              <Node name="Game1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pass3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

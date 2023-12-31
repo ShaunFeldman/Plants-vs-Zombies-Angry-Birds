@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).mp3</SourceFile>
+  <SourceTime>2023-01-21T22:19:32-05:00</SourceTime>
+  <DestFile>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/Content/bin/DesktopGL/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).xnb</DestFile>
+  <DestTime>2023-12-31T10:54:45.6480363-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/Content/bin/DesktopGL/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

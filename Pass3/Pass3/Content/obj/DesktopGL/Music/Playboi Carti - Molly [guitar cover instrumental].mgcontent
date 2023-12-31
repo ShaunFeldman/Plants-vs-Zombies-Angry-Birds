@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Music/Playboi Carti - Molly [guitar cover instrumental].mp3</SourceFile>
+  <SourceTime>2023-01-21T22:08:00-05:00</SourceTime>
+  <DestFile>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/bin/DesktopGL/Music/Playboi Carti - Molly [guitar cover instrumental].xnb</DestFile>
+  <DestTime>2023-01-21T22:08:56.9426703-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:14-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:14-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/bin/DesktopGL/Music/Playboi Carti - Molly [guitar cover instrumental].ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

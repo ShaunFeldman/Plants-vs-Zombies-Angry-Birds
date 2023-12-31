@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Arrow.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/backgroundShop.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Ball.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/barricade.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/BuyButton.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Coins.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/dot.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Exit.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/fence.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Grass.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/InventoryImg.webp</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/loseImg.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/minus.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Play.tiff</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/plus.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/punchImg.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/PunchSprite.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/reloadImg.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/RubberBand.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Shop.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/ShopImg.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Slingshot.webp</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/StartingWallpaper.jpeg</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/stickyImg.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/Sword.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/ZombieWalking_2.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/ZombieWalking_3.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Images/Sprites/ZombieWalking_4.png</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).mp3</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Music/Michael Jackson - Thriller - Thriller.mp3</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Music/Playboi Carti - Molly [guitar cover instrumental].mp3</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Sounds/cash-register-purchase-87313 (online-audio-converter.com).wav</File>
+    <File>/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/Content/Sounds/zombie-6851 (online-audio-converter.com).wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,195 @@
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/introFont.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Grass.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartingWallpaper.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.deps.json
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.json
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CopyComplete
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.genruntimeconfig.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Ball.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Slingshot.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopSign.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/RubberBand.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shop.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Play.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Arrow.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Coins.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/coinFont.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_2.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_3.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_4.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/backgroundShop.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/dot.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PunchSprite.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Sword.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/punchImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/reloadImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/stickyImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/InventoryImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/loseImg.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BuyButton.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/minus.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/plus.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/barricade.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/fence.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/inventoryFont.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].ogg
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).ogg
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.ogg
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/cash-register-purchase-87313 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/zombie-6851 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopSign.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/coinFont.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/introFont.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/inventoryFont.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Arrow.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/backgroundShop.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Ball.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/barricade.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BuyButton.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Coins.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/dot.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/fence.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Grass.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/InventoryImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/loseImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/minus.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Play.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/plus.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/punchImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PunchSprite.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/reloadImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/RubberBand.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shop.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Slingshot.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartingWallpaper.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/stickyImg.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Sword.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_2.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_3.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_4.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).ogg
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.ogg
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].ogg
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/cash-register-purchase-87313 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/zombie-6851 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.deps.json
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.json
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.dev.json
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfo.cs
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CopyComplete
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Downloads/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.genruntimeconfig.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopSign.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/coinFont.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/introFont.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Fonts/inventoryFont.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Arrow.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/backgroundShop.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Ball.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/barricade.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BuyButton.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Coins.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/dot.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/fence.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Grass.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/InventoryImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/loseImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/minus.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Play.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/plus.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/punchImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/PunchSprite.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/reloadImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/RubberBand.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shop.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ShopImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Slingshot.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/StartingWallpaper.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/stickyImg.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Sword.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_2.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_3.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Images/Sprites/ZombieWalking_4.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Michael Jackson - Thriller - Thriller.xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].ogg
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Music/Playboi Carti - Molly [guitar cover instrumental].xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/cash-register-purchase-87313 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Content/Sounds/zombie-6851 (online-audio-converter.com).xnb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.deps.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.runtimeconfig.dev.json
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfoInputs.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.AssemblyInfo.cs
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.csproj.CopyComplete
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.dll
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.pdb
+/Users/shaunfeldman/Projects/Highschool Comp Sci/ICS4/PASS3/Pass3/Pass3/obj/Debug/netcoreapp3.1/Pass3.genruntimeconfig.cache
